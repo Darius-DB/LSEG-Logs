@@ -72,13 +72,7 @@ java -cp out org.lseg.LogDurationCalculator
 
 ## 📦 Dependencies
 
-None – uses only standard Java libraries.
+Lombok
 
 ---
 
-## 🔍 Possible Improvements
-
-- Accept log file path as a command-line argument.
-- Handle time across midnight (`LocalDateTime` instead of `LocalTime`).
-- Support other time formats.
-- Add unit tests and logging framework.
